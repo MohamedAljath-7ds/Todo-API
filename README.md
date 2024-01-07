@@ -10,7 +10,7 @@ The Todo API is a RESTful web service designed to manage tasks or "todos." It pr
    - *Response:* JSON array containing todo objects.
 
 2. *Get Todo by ID*
-   - *Endpoint:* GET /api/todos/{id}
+   - *Endpoint:* GET /api/tasks/{id}
    - *Description:* Retrieve a specific todo by its unique identifier.
    - *Parameters:* {id} - Unique identifier of the todo.
    - *Response:* JSON object representing the todo.
